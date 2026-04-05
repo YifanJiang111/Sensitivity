@@ -1,4 +1,3 @@
-
 ![image](llm.png)
 Figure 1. Sensitivity analysis of llm serving
 
