@@ -1,5 +1,4 @@
-# Sensitivity
-Sensitivity analysis
+
 ![image](llm.png)
 Figure 1. Sensitivity analysis of llm serving
 
@@ -8,5 +7,5 @@ Figure 1. Sensitivity analysis of llm serving
 Figure 2. Sensitivity analysis of MEC
 
 
-![image](ablation/Delivery.png)
+![image](delivery.png)
 Figure 3. Sensitivity analysis of Delivery
